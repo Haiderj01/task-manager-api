@@ -1,20 +1,21 @@
-Task Manager REST API
+# Task Manager REST API
 
-Tech Stack
-- Node.js
-- Express.js
-- MongoDB Atlas
-- JWT Authentication
+A backend REST API built with Node.js, Express.js, and MongoDB.
 
-Features
-- User registration and login
-- JWT authentication
+## Features
+- User registration
+- User login with JWT authentication
 - Create tasks
 - Fetch tasks
 - Delete tasks
 
-Setup
-1. Clone repository
-2. npm install
-3. Add .env file
-4. npm start
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT
+- bcrypt
+
+## Run Locally
+npm install
+npm start
